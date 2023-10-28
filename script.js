@@ -32,7 +32,7 @@ let user=['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal']; // [Madurai
      }
 
      arr1.sort();
-     console.log(arr1); // ['Madurai Temple', 'Pink City', 'tajmahal']
+     // console.log(arr1); // ['Madurai Temple', 'Pink City', 'tajmahal']
 
      let outputList=[];
 
